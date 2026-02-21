@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-auto-flow-platform-web-amp",
+  "version": "1.0.0",
+  "description": "Configuration management system",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "auto-flow-platform-web-amp"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-auto-flow-platform-web-amp.git"
+  }
+}
